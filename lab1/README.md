@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Mazin Sadek
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+Git is just version control that runs locally, GitHub will host your version controls on servers
